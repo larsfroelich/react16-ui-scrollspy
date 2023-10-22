@@ -31,7 +31,7 @@ OR
 yarn add react-ui-scrollspy
 ```
 
-### React 17 and below
+### React 17
 
 ```bash
 npm install --save react-ui-scrollspy@2.2.0
@@ -42,6 +42,14 @@ OR
 ```bash
 yarn add react-ui-scrollspy@2.2.0
 ```
+
+### React 16
+
+```bash
+npm install --save xlfpx/react16-ui-scrollspy#main
+```
+
+
 
 ## 🎞 Demo
 
@@ -161,3 +169,4 @@ html {
 ## 📝 Authors
 
 - Hussain Pettiwala ([@pettiboy](https://github.com/pettiboy))
+- Lars Frölich (adaptation for React16)
