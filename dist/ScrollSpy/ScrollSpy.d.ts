@@ -1,3 +1,4 @@
+import * as React from "react";
 import { MutableRefObject, ReactNode } from "react";
 interface ScrollSpyProps {
     children: ReactNode;
@@ -12,5 +13,5 @@ interface ScrollSpyProps {
     useBoxMethod?: boolean;
     updateHistoryStack?: boolean;
 }
-declare const ScrollSpy: ({ children, navContainerRef, parentScrollContainerRef, scrollThrottle, onUpdateCallback, offsetTop, offsetBottom, useDataAttribute, activeClass, useBoxMethod, updateHistoryStack, }: ScrollSpyProps) => JSX.Element;
+declare const ScrollSpy: ({ children, navContainerRef, parentScrollContainerRef, scrollThrottle, onUpdateCallback, offsetTop, offsetBottom, useDataAttribute, activeClass, useBoxMethod, updateHistoryStack, }: ScrollSpyProps) => React.JSX.Element;
 export default ScrollSpy;
