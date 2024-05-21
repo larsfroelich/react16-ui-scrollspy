@@ -2,7 +2,9 @@
 
 ![ScrollSpy Demo](./demo-app/assets/banner.png)
 
-# React UI ScrollSpy
+# React16 UI ScrollSpy
+
+## ! A modified version of react ui scrollspy which is compatible with react 16 !
 
 [![npm](https://img.shields.io/npm/v/react-ui-scrollspy.svg)](https://npmjs.com/package/react-ui-scrollspy)
 [![npm](https://img.shields.io/npm/dy/react-ui-scrollspy.svg)](https://npmjs.com/package/react-ui-scrollspy)

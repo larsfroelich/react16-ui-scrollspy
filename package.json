@@ -1,5 +1,5 @@
 {
-  "name": "react-ui-scrollspy",
+  "name": "react16-ui-scrollspy",
   "version": "2.3.0",
   "description": "Simple, Easy To Use and Customisable ScrollSpy component for react with callback, typescript and throttle support among others",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
     "url": "https://github.com/pettiboy/react-ui-scrollspy/issues"
   },
   "homepage": "https://github.com/pettiboy/react-ui-scrollspy#readme",
-  "author": "Hussain Pettiwala",
+  "authors": ["Hussain Pettiwala", "Lars Frölich"],
   "license": "MIT",
   "keywords": [
     "react",
